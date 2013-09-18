@@ -1,5 +1,14 @@
-.h2 {
+.h1 {
 	font-size: 24px;
 	font-family: Arial;
 	color: green;
+	margin-top:25px;
+	margin-left:50px;
+}
+
+.p {
+	font-size:12px;
+	font-family:serif;
+	color:blue;
+	margin-left:100px;
 }
