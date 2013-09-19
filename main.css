@@ -1,14 +1,19 @@
-.h1 {
-	font-size: 24px;
-	font-family: Arial;
-	color: green;
+body {
+	background-color:#909090; 
+}
+
+h1 {
+	font-size:24px;
+	font-family:Arial;
+	color:#000000;
 	margin-top:25px;
 	margin-left:50px;
 }
 
-.p {
+p {
 	font-size:12px;
 	font-family:serif;
-	color:blue;
+	color:#000000;
 	margin-left:100px;
 }
+	
